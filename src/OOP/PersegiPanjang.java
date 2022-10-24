@@ -1,3 +1,5 @@
+package OOP;
+
 public class PersegiPanjang implements BagunDatar{
 
     @Override

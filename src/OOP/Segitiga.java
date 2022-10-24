@@ -1,3 +1,5 @@
+package OOP;
+
 public class Segitiga {
     // Attribut atau variabel
     private int tinggi = 5;

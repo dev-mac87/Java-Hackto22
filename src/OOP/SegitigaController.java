@@ -1,3 +1,4 @@
+package OOP;
 
 public class SegitigaController extends Segitiga{
     public SegitigaController(int panjang, int tinggi, int lebar) {
