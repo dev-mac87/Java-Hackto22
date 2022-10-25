@@ -24,10 +24,21 @@ public class List {
             System.out.println("\t index-"+ i +" = " + planets.get(i));
         }
 
-        planets.remove("venus"); // method remove() untuk mengeluarkan objek dari List
+        planets.remove("mercury"); // method remove() untuk mengeluarkan objek dari List
         System.out.println("List planets akhir:");
         for (int i = 0; i < planets.size(); i++) {
             System.out.println("\t index-"+ i +" = " + planets.get(i));
         }
+
+        System.out.println("List planets dengan filter:");
+        planets.stream().filter(s -> s.contains("s")).forEach(x -> {
+
+            java.util.List<String> newPlanets = new ArrayList<>();
+            newPlanets.add(x);
+
+            for (int i = 0; i < newPlanets.size(); i++) {
+                System.out.println("\t index-"+ i +" = " + newPlanets.get(i));
+            }
+        });
     }
 }
