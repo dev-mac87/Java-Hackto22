@@ -1,12 +1,0 @@
-
-Q
-java:S3740"/Provide the parametrized type for this generic.(ğŠÕÿÿÿÿÿ8Õ¿ˆğÀ0
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ»…
-a
-java:S4143"DVerify this is the key that was intended; it was already set before.(ÉûÃ‘8¢çæ‘Á0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(êÉ°Ï8Á‡ğÀ0
-P
-java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ˆ×8¦çæ‘Á0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş”òë8‘Á‡ğÀ0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¦óĞÖ8’Á‡ğÀ0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‚ãº¾8’Á‡ğÀ0

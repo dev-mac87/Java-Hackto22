@@ -30,8 +30,9 @@ public class List {
             System.out.println("\t index-"+ i +" = " + planets.get(i));
         }
 
+        // filter data collection mengandung kata earth
         System.out.println("List planets dengan filter:");
-        planets.stream().filter(s -> s.contains("s")).forEach(x -> {
+        planets.stream().filter(s -> s.contains("earth")).forEach(x -> {
 
             java.util.List<String> newPlanets = new ArrayList<>();
             newPlanets.add(x);
