@@ -5,5 +5,6 @@ public class BangunDatarApp {
         PersegiPanjang persegiPanjang = new PersegiPanjang();
         persegiPanjang.volume();
         persegiPanjang.luas();
+        persegiPanjang.keliling();
     }
 }
