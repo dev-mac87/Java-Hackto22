@@ -15,4 +15,11 @@ public class PersegiPanjang implements BagunDatar{
         int luas= panjang * lebar;
         System.out.println("Luas Persegi Panjang = " + luas);
     }
+
+    @Override
+    public void keliling(){
+        int panjang = 15, lebar = 10;
+        int keliling = (panjang*2)+(lebar*2);
+        System.out.println("Keliling Persegi Panjang = "+keliling);
+    }
 }
