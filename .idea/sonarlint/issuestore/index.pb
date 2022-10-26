@@ -1,0 +1,19 @@
+
+E
+src/OOP/Segitiga.java,b\8\b8370af2c878835bb4598f1b3b1c70d9b13292fc
+K
+src/OOP/PersegiPanjang.java,b\1\b14f63f9b1bd64a7e2f9c345d67af5ff05596be2
+G
+src/Collection/Map.java,3\6\366294f7c8e66f3bc728456ffbb2babe5da7988c
+O
+src/OOP/SegitigaController.java,7\4\74761c352a339f89aa49bcf93cf06b8f2259c30d
+J
+src/Collection/Planet.java,5\0\50a34be633c9b7813fae6d217358ae20fd633da2
+K
+src/OOP/BangunDatarApp.java,f\a\fac6ba74153ad48503005dc344452fd727602476
+G
+src/OOP/BagunDatar.java,7\5\75a9dca69eca1dcec706641cb2dd14d8dfbca5c0
+G
+src/Collection/Set.java,b\f\bf3684ab5aadb74c2599b90e4518fe4073923999
+H
+src/Collection/List.java,0\7\07120bedd492acb8e2c488ccc62186b478315288

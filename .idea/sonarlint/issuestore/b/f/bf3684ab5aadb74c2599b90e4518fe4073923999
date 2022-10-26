@@ -1,0 +1,10 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ò¾„èüÿÿÿÿ8á¸’ĞÀ0
+c
+java:S1192"FDefine a constant instead of duplicating this literal "earth" 3 times.(üÍá¹8ÇéĞÀ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ»…
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•àõç8ĞéĞÀ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚ãº¾8×éĞÀ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éÊ¨ç8×éĞÀ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿´ÁÙ8×éĞÀ0

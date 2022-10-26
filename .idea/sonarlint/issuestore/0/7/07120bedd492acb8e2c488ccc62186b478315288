@@ -1,0 +1,10 @@
+
+_
+java:S1192"JDefine a constant instead of duplicating this literal "\t index-" 3 times.(ğšæ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ»…
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë“‚ï
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ğšæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€à•üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ğšæ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¤‡Åâùÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ã¹ÇÀ
